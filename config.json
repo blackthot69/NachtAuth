@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "0e26db46-a5b5-4634-8606-3983bea26afd"
     },
 
     "URLS": {
@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1115523178958164018/Lun77tdngcjOmGxhhDlG3TM524V5SIZmEKLHBd6-sEyqKDjzY6WczQroo2g6hrHLfMD-"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "de69e9d6-9b80-4170-8b4b-475c647c63e0",
+        "client_secret": "c7d8a912-5002-4245-a073-63cfac257742",
+        "redirect_uri": "https://one23abceyesonme.onrender.com"
     }
 }
